@@ -11,7 +11,6 @@
 
 Did you use an AI tool for this lab?
 
-- [ ] Yes
 - [ ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
@@ -44,7 +43,7 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: One skill I learned in programming is how to use loops. Loops helped me repeat tasks without writing the same code over and over again. For example, in my sales bar chart program, I used loops to ask for sales from five stores and display the correct number of stars. This made my code shorter, easier to understand, and more organized.
 
 ## Summary
 
